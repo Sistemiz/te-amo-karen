@@ -80,7 +80,7 @@ export default function Main() {
 
                   <img src={health} alt="" width={200} />
 
-                  <p className="mt-10">Feito com 💜 pelo <a className="font-semibold text-red-300" href="https://youtu.be/V141wUSkTfk">Seu Matheus</a></p>
+                  <p className="mt-10">Feito com 💜 pelo <a className="font-semibold text-red-300" href="https://youtu.be/V141wUSkTfk"> Seu Matheus</a></p>
                 </>
               ) : (
                 <>
@@ -89,7 +89,7 @@ export default function Main() {
                   </p>
                   <img src={health} alt="" width={200} />
 
-                  <p className="mt-10">Feito com 💜 pelo <a className="font-semibold text-red-300" href="https://youtu.be/V141wUSkTfk">Seu Matheus</a></p>
+                  <p className="mt-10">Feito com 💜 pelo <a className="font-semibold text-red-300" href="https://youtu.be/V141wUSkTfk"> Seu Matheus</a></p>
                 </>
               )}
             </div>
